@@ -17,7 +17,7 @@
 
 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "ADS_ON_START" : true, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
@@ -60,7 +60,7 @@
 "RATE_BUTTON" : "Rate",
 "LATER_BUTTON" : "Home",
 "ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "Superb App Install Now",
+"SHARE_TXT" : "Awesome App Install Now",
 "MORE_BUTTON" : "Share",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
 
