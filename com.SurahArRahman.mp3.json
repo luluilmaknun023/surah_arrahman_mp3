@@ -59,10 +59,10 @@
 "EXIT_POPUP_DIALOG" : "Help us by giving a 5 star rating so we keep the spirit of providing the latest updates",
 "RATE_BUTTON" : "Rate",
 "LATER_BUTTON" : "Home",
-"ENABLE_SHARE_BUTTON" : true,
+"ENABLE_SHARE_BUTTON" : false,
 "SHARE_TXT" : "Awesome App Install Now",
-"MORE_BUTTON" : "Share",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.package.name"
+"MORE_BUTTON" : "Recommended App",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.naturebackground.wallpaperhdnature"
 
 }
 ]
