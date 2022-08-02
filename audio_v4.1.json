@@ -1,21 +1,21 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "d66640adb1a1e4ce",
-      "main_ads_intertitial":"9398ccd7b83e7e63",
+      "select_main_ads": "STARTAPP",
+      "select_backup_ads":"ADMOBX",
+      "main_ads_banner": "d66640adb1a1e4ceX",
+      "main_ads_intertitial":"9398ccd7b83e7e63X",
       "backup_ads_banner":"xxca-app-pub-3940256099942544/6300978112XX",
-      "backup_ads_intertitial":"ca-app-pub-9200602507152446/4280030288",
-      "interval_intertitial": 3,
-      "initialize_sdk":"",
+      "backup_ads_intertitial":"ca-app-pub-9200602507152446/4280030288X",
+      "interval_intertitial": 1,
+      "initialize_sdk":"209565107",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.zerocorp.lamborghiniwallpapershd"
     }
   ],
